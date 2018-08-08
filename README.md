@@ -1,0 +1,2 @@
+# pingscanfull
+PING EM TODA A REDE PRA DESCOBRIR IP'S ATIVOS.
