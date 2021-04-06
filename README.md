@@ -13,10 +13,10 @@ Como usar:
 
 ______________________________
 
-┌───────────────────────┐
-│CRIADO POR MAICON KLANN│
-└───────────────────────┘
-http://twitter.com/maiconklann
+┌───────────────────┐
+│ CRIADO POR Al4xs  │
+└───────────────────┘
+http://twitter.com/al4xyon
 
 ┌───────────────────────────────────────────────────────────────────┐
 │Colaboradores aqui:                                                │
